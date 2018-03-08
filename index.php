@@ -29,7 +29,7 @@
     <div class="wrapper">
         <nav>
             <div>
-                <h2>web2market task</h2>
+                <h2>PHP Encrypt Decrypt Demo</h2>
                 <hr>
                 <div id="locked">
                     <i class="fa fa-lock fa-2x"></i>
